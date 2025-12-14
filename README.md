@@ -59,3 +59,7 @@ my-galleries/
 - `POST /api/photos` - Upload a new photo
 - `PUT /api/photos` - Update photo details
 - `DELETE /api/photos` - Delete a photo
+
+---
+
+I hope this project can fulfill my web programming exam requirements.
